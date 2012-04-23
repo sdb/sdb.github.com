@@ -10,6 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Stefan De Boey
+tagline: Software and web developer
 author :
   name : Stefan De Boey
   email : contact@stefandeboey.be
@@ -73,6 +74,7 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
+  pages_path : /pages.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

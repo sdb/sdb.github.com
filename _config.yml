@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Stefan De Boey
-tagline: Creating software, web applications and stuff like that. Site is under construction, enter at your own risk.
+tagline: Creating software, web applications and stuff like that.
 author :
   name : Stefan De Boey
   email : contact@stefandeboey.be
@@ -18,6 +18,11 @@ author :
   twitter : sdeboey
   stackoverflow: 223717
   linkedin: sdeboey
+  tumblr: latenite
+  delicious: sdeboey
+  googleplus: 105510320531956458114
+  goodreads: sdeboey
+  wakoopa: sdb
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

@@ -5,7 +5,10 @@ description: ""
 ---
 {% include JB/setup %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare ullamcorper orci. Nullam at elementum orci. Aliquam vehicula ante eu quam hendrerit sit amet dapibus dolor consequat. Nullam et nibh quis lectus auctor facilisis. Sed nisi ipsum, elementum id egestas at, interdum et felis. Duis a orci nisi, pulvinar laoreet quam. Donec sollicitudin tortor vel eros tempus tempor. Nullam lobortis mollis eleifend. Duis euismod fringilla congue. Suspendisse et vestibulum odio. Fusce id ornare nulla. Etiam ac mattis neque. Sed euismod dui eu leo cursus sodales. Nunc feugiat lacinia accumsan.
+You probably noticed this already, but just in case: my name is Stefan De Boey. I'm a *software developer*, interested in programming languages, web development and all that fun stuff.
 
-Duis nec massa lectus. Etiam ac ultricies purus. Ut ut eros lacus. Ut suscipit dui sit amet ante semper at fringilla lectus facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dignissim, velit ullamcorper iaculis porttitor, velit orci condimentum augue, quis dictum nunc turpis sit amet turpis. Morbi laoreet lectus non neque ultrices malesuada. Suspendisse luctus tortor quis ligula imperdiet facilisis.
+At the moment I'm mainly working with the [Mojolly](http://www.mojolly.com/) guys on [BackChat.io](https://backchat.io/), which is easiest to describe as *grep for real-time data*.
 
+In case you're interested in me or my work, then check out some of my [projects](http://github.com/{{ site.author.github }}/) on GitHub, [connect](http://www.linkedin.com/in/{{ site.author.linkedin }}/) with me on LinkedIn or just [tweet](http://twitter.com/{{ site.author.twitter }}/) me. And if you want even more of me on the internets, look [here](/elsewhere.html).
+
+Note that this site is *under construction*, so enter at your own risk.

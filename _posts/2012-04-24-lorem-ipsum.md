@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Lorem Ipsum"
+description: "Testing Jekyll-Bootstrap"
+category: hello
+tags: [hello]
+---
+{% include JB/setup %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque diam sed velit gravida vehicula. Etiam sed urna dui, vel accumsan sapien. Nunc sed adipiscing sapien. Cras fermentum sapien eget turpis lacinia ac lacinia justo porta. Nullam pellentesque rutrum nulla, vel vulputate elit gravida sed. Cras egestas sagittis turpis, nec ornare quam feugiat in. Integer pellentesque euismod urna eu blandit. Sed vitae commodo mauris. Mauris pharetra neque leo. Fusce mollis, ipsum et dignissim consequat, odio justo iaculis lorem, ut varius lorem ipsum vel eros. Mauris sit amet neque sem, non ultrices erat. In hac habitasse platea dictumst.
+
+Suspendisse vel lectus non magna suscipit adipiscing in vel tortor. Praesent massa tellus, vulputate vitae laoreet et, auctor et odio. Donec sit amet felis purus. Etiam nec tellus ac enim ultricies rutrum. Cras sed erat sit amet arcu imperdiet semper nec eu elit. Nunc erat urna, facilisis at euismod luctus, blandit at massa. Cras nibh erat, laoreet et euismod et, lacinia vel tellus. Nunc ut mattis sapien. Integer congue blandit urna, a ullamcorper odio semper a. Suspendisse malesuada venenatis lacinia. In nec malesuada lectus. Nullam porttitor ipsum sed mauris aliquam tristique. Cras sodales egestas libero vel accumsan. Sed augue metus, aliquet ac pellentesque et, interdum in purus. Sed euismod arcu sed risus lacinia feugiat.
+
+Aliquam cursus semper orci nec rutrum. Sed quis nulla id tortor suscipit dapibus. Donec id mauris elit. In quis egestas diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fringilla sodales neque, id venenatis dolor interdum rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas orci leo, placerat id aliquam at, molestie ullamcorper enim. Duis sit amet ullamcorper ligula. Curabitur gravida imperdiet ipsum, nec convallis odio lobortis in. Vivamus non augue rhoncus orci convallis egestas a mollis sem. Quisque at purus enim. Quisque aliquam, mi sed tristique posuere, nulla ligula gravida mauris, mollis mattis massa eros a diam. Aliquam consequat erat at enim tristique tempus. Nunc consectetur enim at dolor lacinia tristique. Aenean laoreet diam ac sem venenatis scelerisque sed accumsan libero.
+
+Ut posuere tincidunt ultrices. Morbi fringilla, tellus elementum rutrum euismod, sapien felis sodales tortor, id aliquam nunc augue nec sapien. Aenean ante urna, imperdiet a porta nec, posuere sed tellus. Maecenas adipiscing nibh quis eros convallis mollis. Nullam nec tortor purus. Phasellus id lorem eros. Vivamus placerat venenatis magna, id egestas leo commodo vitae. In hac habitasse platea dictumst.
+
+Curabitur ut augue ac lectus hendrerit venenatis. Maecenas id lorem sem, at fermentum felis. In felis dolor, ultrices eu hendrerit vitae, suscipit vitae mi. Quisque nunc turpis, egestas laoreet convallis fermentum, condimentum sed ante. Pellentesque id magna enim. Fusce vel orci sit amet magna rhoncus fermentum. Nam ac ligula quis enim rutrum bibendum. Donec dapibus, purus non aliquet luctus, nisl ligula viverra erat, vel aliquet ante justo vel sapien. Duis iaculis ullamcorper congue. Pellentesque quis velit vitae leo tempor dapibus ut non dui. Morbi eget ante a mi fermentum dignissim.

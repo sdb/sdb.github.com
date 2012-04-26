@@ -80,6 +80,10 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
   pages_path : /pages.html
+  pages_path : /pages.html
+  contact_path : /contact.html
+  about_path : /about.html
+  elsewhere_path : /elsewhere.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

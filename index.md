@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Welcome"
+title: ""
 description: ""
 ---
 {% include JB/setup %}
 
-You probably noticed this already, but just in case: my name is Stefan De Boey. I'm a *software developer*, interested in programming languages, web development and all that fun stuff.
+Welcome, let me introduce myself. My name is Stefan De Boey and I'm a *software developer*, interested in programming languages, web development and all that fun stuff.
 
 I've been building and maintaining software projects since 1999.
 

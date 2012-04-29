@@ -2,7 +2,7 @@
 layout: post
 title: "Filtering resources in SBT projects"
 description: ""
-category: 
+category: scala
 tags: [sbt, xsbt, scala, plugins]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "Giter8 template for Android apps"
 description: ""
-category: 
+category: scala
 tags: [sbt, xsbt, android, scala, giter8]
 ---
 {% include JB/setup %}

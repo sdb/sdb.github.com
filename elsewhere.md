@@ -17,3 +17,4 @@ In case you're searching for traces of me on the internets, look no further, her
 * Goodreads: [goodreads.com/{{ site.author.goodreads }}](http://www.goodreads.com/{{ site.author.goodreads }})
 * Wakoopa: [social.wakoopa.com/{{ site.author.wakoopa }}](http://social.wakoopa.com/{{ site.author.wakoopa }}/)
 * Last.fm: [http://last.fm/{{ site.author.lastfm }}](http://www.last.fm/user/{{ site.author.lastfm }}/)
+* paper.li: [http://paper.li/{{ site.author.paperli }}](http://paper.li/~/publisher/{{ site.author.paperli }}/)
